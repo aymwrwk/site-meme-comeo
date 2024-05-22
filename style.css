@@ -16,7 +16,7 @@ font-family: Arial, Helvetica, sans-serif;
 .destaque{
     border-radius: 3px;
     padding: 8px;
-background-color:#e99055 ;
+background-color:#E86C19 ;
     color: white;
 
 }
@@ -92,7 +92,7 @@ text-decoration: underline;
 
 #navheader > a:hover{
 border-radius: 3px;
-background-color: #e99055;
+background-color: #E86C19;
 color: white;
 }
 
