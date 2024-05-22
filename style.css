@@ -44,7 +44,7 @@ width: 250px;
 
 
 header{
-  
+  max-width: 1200px;
     
     background-color: white;
 
@@ -140,6 +140,7 @@ header > p{
 
 
 .main001{
+    max-width: 1100px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     border-radius: 3px;
@@ -161,12 +162,13 @@ font-weight: bolder;
 
 
 .main002{
+    max-width: 1100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 font-weight: bolder;
     border-radius: 3px;
     margin-top: 20px;
-    font-family: 'Times New Roman', Times, serif, Tahoma, Geneva, Verdana, sans-serif, Tahoma, Geneva, Verdana, sans-serif;
-
+   
     color: #2D2D2D;
     box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.185);
 padding: 20px;
@@ -177,11 +179,12 @@ padding: 20px;
 
 
 .main003{
+    max-width: 1100px;
     text-align: center;
 font-weight: bolder;
 border-radius: 3px;
     margin-top: 20px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
     color: #2D2D2D;
     box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.185);
