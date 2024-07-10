@@ -26,29 +26,25 @@ background-color:#E86C19 ;
 
 
 .imagenlogo{
-
     margin: 30px;
 width: 250px;
-
-
 
 }
 
 
 .imagemmeme{
-   
 width: 250px;
+}
 
+video{
+   
+    border-radius: 3px;
 
 }
 
-
 header{
-  max-width: 1200px;
-    
+    max-width: 1200px;
     background-color: white;
-
-    
     border: solid #E86C19 3px;
     box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.185);
 
@@ -155,7 +151,12 @@ font-weight: bolder;
 }
 
 
+.main001 > p{
+    color: #2D2D2D;
+    font-weight: bolder;
+    font-size: 1.1em;
 
+}
 
 
 
