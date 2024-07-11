@@ -223,3 +223,19 @@ border: rgb(109, 107, 107) solid 1px;
     text-decoration: underline;
 
 }
+
+.footer > a:hover{
+    background-color: #E86C19;
+}
+
+ .numerodestaque{
+  
+  background-color: #E5E5E5;
+
+}
+
+.numerodestaque:hover{
+
+    background-color: #E86C19;
+
+}
