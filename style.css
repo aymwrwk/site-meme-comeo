@@ -3,7 +3,7 @@
 
 *{
 
-
+    margin: 0px;
 }
 
 
@@ -46,6 +46,7 @@ video{
 }
 
 header{
+
     max-width: 1200px;
     background-color: white;
     border: solid #E86C19 3px;
@@ -58,6 +59,7 @@ header{
 header > nav {
    
     
+
 padding: 10px;
     background-color: #FBFBFB;
     border: solid #E5E5E5 1px;
@@ -137,7 +139,7 @@ header > p{
 
 
 .main001, .main002, .main003{
-
+margin: 20px;
     border-bottom: #E86C19 solid 3px;
 
 }
