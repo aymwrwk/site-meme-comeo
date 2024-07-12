@@ -46,7 +46,7 @@ video{
 }
 
 header{
-
+    margin: 10px;
     max-width: 1200px;
     background-color: white;
     border: solid #E86C19 3px;
